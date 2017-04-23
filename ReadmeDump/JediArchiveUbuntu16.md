@@ -25,28 +25,32 @@ Good luck, and may the Force be with you.
 
 > DO NOT DELETE ANYTHING ON THE DESKTOP. DO NOT REMOVE ANY FILE WITH NAMES containing `scorer`, `cyberpatriot`, `scorereport` or the like.
 
+
 ### Admins:  
 
-Masters | Password
-------- | --------
-lskywalker (you) | jedi
-askywalker | penguin
-mwindu | `???`
-okenobi | `???`
-yoda | `???`
+| Masters | Password |
+|:--------|:-------:|
+| lskywalker (you)   | jedi   |
+| askywalker   | penguin   |
+| mwindu  | `???`   |
+| okenobi | `???`   |
+| yoda    | `???`   |
+|----
+
 
 ### Users:  
 
-Users | Password
------ | --------
-ahsoka | archive
-artoo | beep_boop
-cody | `???`
-dooku | `???`
-lorgana | `???`
-maul | `???`
-pamidala | `Should be` CyberPatriot1!
-wtarkin | `???`
- 
+| Users   | Password |
+|:--------|:-------:|
+| ahsoka  | archive |
+| artoo   | beep_boop |
+| cody    | `???`   |
+| dooku   | `???`   |
+| lorgana | `???`   |
+| maul    | `???`   |
+| pamidala | `Should be` CyberPatriot1! |
+| wtarkin | `???`   |
+|----
+
  
  > Copyright @billwi (Vinay) 2017-?. Contact if you have any questions.
