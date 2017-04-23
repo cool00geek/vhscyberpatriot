@@ -19,22 +19,17 @@ url: http://vhscyberpatriot.tech
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'About'
-    url: '/about'
   - title: 'READMEs'
     url: '/readmes'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
+  - title: 'About'
+    url: '/about'
 
 # Owner/author information
 owner:
   name:           Valencia High School
   site:           http://vhstigers.prg
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "We are the amazing Valencia High School! PRIDE! TRADITION! EXCELLENCE!"
   email:          you@email.com
   # GitHub nick for use in follow button in author block.
   github: billwi
@@ -58,7 +53,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 locale:      en_US
 future:      true
 highlighter: rouge
