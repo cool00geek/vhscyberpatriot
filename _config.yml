@@ -11,9 +11,9 @@ title                    : "VHS CyberPatriot"
 title_separator          : "-"
 name                     : "Valencia High School"
 description              : "The VHS CyberPatriot site to host training materials"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://billwi.github.io"
+baseurl                  : "/vhscyberpatriot"
+repository               : "billwi/vhscyberpatriot"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vinay"
+  name             : "Valencia High School"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Orange County CCC"
   location         : "Orange County, CA"
   email            :
   uri              :
@@ -97,14 +97,14 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
