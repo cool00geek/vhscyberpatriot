@@ -21,20 +21,13 @@ menu:
     url: '/'
   - title: 'About'
     url: '/about'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
+  - title: 'READMEs'
+    url: '/readmes'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
