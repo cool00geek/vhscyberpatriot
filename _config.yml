@@ -19,8 +19,8 @@ url: http://vhscyberpatriot.tech
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'READMEs'
-    url: '/readmes'
+  - title: 'Images'
+    url: '/images'
   - title: 'About'
     url: '/about'
 
