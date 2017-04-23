@@ -29,19 +29,18 @@ Good luck, and may the Force be with you.
 ### Admins:  
 
 | Masters | Password |
-|:--------|:-------:|
+|:--------|--------:|
 | lskywalker (you)   | jedi   |
 | askywalker   | penguin   |
 | mwindu  | `???`   |
 | okenobi | `???`   |
 | yoda    | `???`   |
-|----
 
 
 ### Users:  
 
 | Users   | Password |
-|:--------|:-------:|
+|:--------|--------:|
 | ahsoka  | archive |
 | artoo   | beep_boop |
 | cody    | `???`   |
@@ -50,7 +49,6 @@ Good luck, and may the Force be with you.
 | maul    | `???`   |
 | pamidala | `Should be` CyberPatriot1! |
 | wtarkin | `???`   |
-|----
 
  
  > Copyright @billwi (Vinay) 2017-?. Contact if you have any questions.
