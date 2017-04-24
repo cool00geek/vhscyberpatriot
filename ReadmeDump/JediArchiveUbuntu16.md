@@ -1,3 +1,9 @@
+---
+layout: page
+title: Jedi Archives: Ubuntu 16.04
+share: true
+---
+
 # Welcome to the Jedi Archives!
 
 As the new Jedi Keeper of the Archives, you are tasked with securing this Jedi Archive workstation running `Ubuntu 16.04 "Xeniel Xerus"`: DO NOT UPGRADE!  
