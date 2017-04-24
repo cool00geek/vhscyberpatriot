@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jedi Archives: Windows 7
-share: true
+share: false
 ---
 
 # Welcome to the Jedi Archives!
