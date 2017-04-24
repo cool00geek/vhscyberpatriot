@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practice Images
-share: true
+share: false
 ---
 
 # CyberTiger images
