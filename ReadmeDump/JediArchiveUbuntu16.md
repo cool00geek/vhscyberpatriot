@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jedi Archives: Ubuntu 16.04
-share: true
+share: false
 ---
 
 # Welcome to the Jedi Archives!
