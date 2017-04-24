@@ -14,7 +14,7 @@ This site will be used to host our practice images and other training materials
 
 ## Who are we?
 #### BRYCE TSUYUKI
-Windows Guru  
+Windows Chief  
 [@hexalellogram](https://github.com/hexalellogram)  
 [bryce@vhscyberpatriot.tech](mailto:bryce@vhscyberpatriot.tech)
 #### VINAY VENKAT
