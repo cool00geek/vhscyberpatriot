@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-share: true
+share: false
 ---
 
 # VHS Cyberpatriot
