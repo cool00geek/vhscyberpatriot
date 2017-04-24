@@ -6,7 +6,9 @@ share: true
 
 # Welcome to the Jedi Archives!
 
-#### As the new Jedi Keeper of the Temple Archives, you are tasked with securing this Jedi Archive workstation running Windows 7.
+As the new Jedi Keeper of the Temple Archives, you are tasked with securing this Jedi Archive workstation running Windows 7.
+
+
 
 Please ensure that the latest version of `Firefox` is installed and set as the default browser.
 However, some of the older Masters prefer `Internet Explorer` so the latest version of `Internet Explorer` must be installed as well.
