@@ -1,3 +1,9 @@
+---
+layout: page
+title: Jedi Archives: Windows 7
+share: true
+---
+
 # Welcome to the Jedi Archives!
 
 #### As the new Jedi Keeper of the Temple Archives, you are tasked with securing this Jedi Archive workstation running Windows 7.
