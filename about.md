@@ -16,7 +16,7 @@ This site will be used to host our practice images and other training materials
 #### BRYCE TSUYUKI
 Windows Chief  
 [@hexalellogram](https://github.com/hexalellogram)  
-[brycetsuyuki@icloud.com](mailto:brycetsuyuki@icloud.com)
+[btsuyuki1@gmail.com](mailto:btsuyuki1@gmail.com)
 #### VINAY VENKAT
 Linux Guru  
 [@billwi](https://github.com/billwi)  
