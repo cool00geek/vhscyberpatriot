@@ -5,10 +5,6 @@ description: "The READMEs for the Jedi Archives"
 modified: 2017-04-23
 tags: [README]
 categories: [README]
-image:
-    feature: feature.jpg
-    credit: dargadgetz
-    creditlink: https://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
 ---
 
 # Jedi Archives
