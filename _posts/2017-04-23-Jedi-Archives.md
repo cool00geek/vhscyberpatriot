@@ -13,5 +13,5 @@ categories: [README]
 
  - [Ubuntu 16.04 Image](https://http.cat/404)
  - [Ubuntu 16.04 README](/ReadmeDump/JediArchiveUbuntu16.md)
- - [Windows 7 Image](https://drive.google.com/a/pylusd.org/file/d/0B3NhapebZQojallTcmlJQnk4Q0E/view?usp=sharing)
+ - [Windows 7 Image](https://http.cat/404)
  - [Windows 7 README](/ReadmeDump/JediArchiveWindows7.md)
