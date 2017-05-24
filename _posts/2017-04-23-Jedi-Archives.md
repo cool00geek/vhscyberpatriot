@@ -12,6 +12,6 @@ categories: [README]
 ### This is *NOT* an easy image! It may not be as hard as some others, but it isn't easy!
 
  - [Ubuntu 16.04 Image](https://http.cat/404)
- - [Ubuntu 16.04 README](/ReadmeDump/JediArchiveUbuntu16)
+ - [Ubuntu 16.04 README](/ReadmeDump/JediArchiveUbuntu16.md)
  - [Windows 7 Image](https://drive.google.com/a/pylusd.org/file/d/0B3NhapebZQojallTcmlJQnk4Q0E/view?usp=sharing)
- - [Windows 7 README](/ReadmeDump/JediArchiveWindows7)
+ - [Windows 7 README](/ReadmeDump/JediArchiveWindows7.md)
