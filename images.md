@@ -15,5 +15,5 @@ Find all the practice images and their respective READMEs here!
  - [Windows 7 README](/ReadmeDump/JediArchiveWindows7.md)
 
 ## Game of Thrones: June 10 2017
- - [Ubuntu 14.04 Image]()
- - [Ubuntu 14.04 README](/ReadmeDump/GoTUbuntu14.md)
+ - [Ubuntu 16.04 Image]()
+ - [Ubuntu 16.04 README](/ReadmeDump/GoTUbuntu16.md)
