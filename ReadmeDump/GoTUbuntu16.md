@@ -7,8 +7,9 @@ share: false
 
 # Welcome to the Game of Thrones Information Page!
 
-You have been tasked to secure this Ubuntu 14.04 computer. Due to changes in the newer systems, you are to not upgrade to Ubuntu 16.04.
-However, This computer does not have the latest updates. Be sure to update the computer and setup automatic updates, as
+You have been tasked to secure this Ubuntu 16.04 computer.
+
+This computer does not have the latest updates. Be sure to update the computer and setup automatic updates, as
 the users do not have the time to manually update.
 
 Due to the secure nature of this computer, remote access is a big no-no. Be sure to not have any remote access tools installed.
@@ -21,6 +22,10 @@ You noticed that you have been recieving notifications with the text "HACKED!!!"
 found that the computer has not actually been hacked. Please remove this notification. 
 
 Firefox is to be the default browser, at the latest version. Make sure it is set as the default browser. 
+
+All tools and software that can be potentially used for hacking, media, gaming, entertainment, etc. should be removed, as this is strictly a work computer.
+
+You are to login as `dtargaryen`
 
 ## Admins:  
 
