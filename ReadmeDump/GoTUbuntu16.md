@@ -7,6 +7,10 @@ share: false
 
 # Welcome to the Game of Thrones Information Page!
 
+#### NOTICE: PLEASE SET YOUR TEAMNAME FIRST TO GET AN ACCURATE SCORE
+  - Do this by double clicking the teamname icon on the desktop
+  - Enter the password: `fireandblood` when prompted
+
 You have been tasked to secure this Ubuntu 16.04 computer.
 
 This computer does not have the latest updates. Be sure to update the computer and setup automatic updates, as
