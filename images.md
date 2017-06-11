@@ -15,5 +15,5 @@ Find all the practice images and their respective READMEs here!
  - [Windows 7 README](/ReadmeDump/JediArchiveWindows7.md)
 
 ## Game of Thrones: June 10 2017
- - [Ubuntu 16.04 Image]()
+ - <a href="mailto:vinay@vhscyberpatriot.tech?subject=GOT Ubuntu Practice image&body=Hello Vinay, I found your site and was wondering if I could have access to the image. I am a {coach, student}, and would like to practice my skills!">Ubuntu 16.04 Image</a>
  - [Ubuntu 16.04 README](/ReadmeDump/GoTUbuntu16.md)
