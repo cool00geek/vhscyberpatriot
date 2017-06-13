@@ -14,5 +14,5 @@ share: false
 
  - [Ubuntu 16.04 Image](https://http.cat/404)
  - [Ubuntu 16.04 README](/ReadmeDump/JediArchiveUbuntu16)
- - [Windows 7 Image](https://drive.google.com/open?id=0B3NhapebZQojallTcmlJQnk4Q0E)
+ - [Windows 7 Image](https://drive.google.com/a/pylusd.org/file/d/0Bz8huSGWPy-sR3EwdFUtOExDdkE/view?usp=sharing)
  - [Windows 7 README](/ReadmeDump/JediArchiveWindows7)
