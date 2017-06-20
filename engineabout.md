@@ -3,7 +3,7 @@
 #### An alternative cybersecurity scoring engine for Linux platforms!
 
 ## Introduction
- This is a scoring engine for Linux designed with CyberPatriot in mind, but theoretically can be adapted and used for many cyberdefense competitions and other scenarios. Development of this engine was spearheded by Vinay Venkat.
+ This is a scoring engine for Linux designed with CyberPatriot in mind, but theoretically can be adapted and used for many cyberdefense competitions and other scenarios. Development of this engine was spearheaded by Vinay Venkat.
 
 ## Features
 - GUI wizard for vulnerability creation
