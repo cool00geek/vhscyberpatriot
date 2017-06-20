@@ -72,6 +72,8 @@ Advisor/CyberPatriot Regional Coordinator
 
 <a href="mailto:ilemus3@coastline.edu?subject=Linux Scoring Engine&body=This email is regarding the Linux Scoring Engine, and I would like more information about it">ilemus3@coastline.edu</a>
 
+714-706-0019
+
 
 ### Bryce Tsuyuki
 
