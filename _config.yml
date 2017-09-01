@@ -21,6 +21,8 @@ menu:
     url: '/'
   - title: 'Images'
     url: '/images'
+  - title: 'Events'
+    url: '/events'
   - title: 'About'
     url: '/about'
 
