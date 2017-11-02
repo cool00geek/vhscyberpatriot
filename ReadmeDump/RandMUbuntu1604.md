@@ -29,7 +29,7 @@ Be sure to use your best security practices to keep Rick safe from interdimensio
 
 | Admins | Password |
 |:--------|--------:|
-| Morty (you)   | `C137`   |
+| Morty (you)   | `c137`   |
 | Rick   | `wubba`   |
 | Summer  | `???`   |
 | Meeseeks | `???`   |
