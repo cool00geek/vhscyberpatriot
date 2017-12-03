@@ -20,3 +20,11 @@ Do not change your account name! The services listed are critical for this compa
 - aqua
 - lluthor
 - swolf
+
+## Noticies
+
+Please do not delete any file containing the names "time", "teamname" or "scorer".
+
+Created by Vinay Venkat
+
+<a class="copyrighted-badge" title="Copyrighted.com Protection Status" target="_blank" href="https://www.copyrighted.com/work/clera1EjeEGAp97Y"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="150" height="40" src="https://static.copyrighted.com/badges/001.png" /></a><script src="https://static.copyrighted.com/badges/helper.js" type="text/javascript"></script>
