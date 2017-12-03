@@ -63,20 +63,13 @@ pip install pyodbc==3.1.1
 
 Chief Designer/Programmer for The Linux Scoring Engine
 
-714-706-0019
+714-406-0019
 
-<a href="mailto:vinay@vhscyberpatriot.tech?subject=Linux Scoring Engine&body=This email is regarding the Linux Scoring Engine, and I would like more information about it">vinay@vhscyberpatriot.tech</a>
+<a href="mailto:cool00geek@yahoo.com?subject=Linux Scoring Engine&body=This email is regarding the Linux Scoring Engine, and I would like more information about it">cool00geek@yahoo.com</a>
 
 
 ### Irvin Lemus
 
 Advisor/CyberPatriot Regional Coordinator
 
-<a href="mailto:ilemus3@coastline.edu?subject=Linux Scoring Engine&body=This email is regarding the Linux Scoring Engine, and I would like more information about it">ilemus3@coastline.edu</a>
-
-
-### Bryce Tsuyuki
-
-Advisor/Marketing/Testing Assistant
-
-<a href="mailto:btsuyuki1@gmail.com?subject=Linux Scoring Engine&body=This email is regarding the Linux Scoring Engine, and I would like more information about it">btsuyuki1@gmail.com</a>
+<a href="mailto:irvin.lemus@wastc.org?subject=Linux Scoring Engine&body=This email is regarding the Linux Scoring Engine, and I would like more information about it">irvin.lemus@wastc.org</a>
