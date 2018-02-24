@@ -34,7 +34,7 @@ owner:
   bio:            "We are the amazing Valencia High School! PRIDE! TRADITION! EXCELLENCE!"
   email:          you@email.com
   # GitHub nick for use in follow button in author block.
-  github: billwi
+  github: cool00geek
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -43,7 +43,7 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/billwi"
+    url: "https://github.com/cool00geek"
 
 # Background image to be tiled on all pages
 background:
