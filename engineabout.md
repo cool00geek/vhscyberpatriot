@@ -12,7 +12,7 @@
     - Installed programs
     - User vulnerabilities
 - Automatically generates compiled `deb`, `rpm`, or `sh` to be installed on the target virtual machine
-- Automatic score upload to an Azure database for tracking with software such as [CyberTiger Scoreboard](https://github.com/billwi/CyberTigerScoreboard).
+- Automatic score upload to an Azure database for tracking with software such as [CyberTiger Scoreboard](https://github.com/cool00geek/CyberTigerScoreboard).
     - This scoring engine and CyberTiger Scoreboard were designed in tandem to work together as a cohesive whole, so any data uploaded to an Azure database by the engine can be automatically parsed and interpreted by CyberTiger Scoreboard.
 
 
@@ -44,7 +44,7 @@ gem install fpm
 1. Run the below shell script
 2. Install `default-jre`, `ruby-dev`, and `fpm` through gem.
 
-[Shell Script to with superuser privileges (e.g. sudo) for Ubuntu Environments](https://gist.github.com/billwi/fc7bdbec214c9a964af69498c08e48ec)
+[Shell Script to with superuser privileges (e.g. sudo) for Ubuntu Environments](https://gist.github.com/cool00geek/fc7bdbec214c9a964af69498c08e48ec)
 
 ### Script Contents:
 ```shell
