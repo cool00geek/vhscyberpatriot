@@ -19,5 +19,5 @@ Windows Chief
 [btsuyuki1@gmail.com](mailto:btsuyuki1@gmail.com)
 #### VINAY VENKAT
 Linux Guru  
-[@billwi](https://github.com/billwi)  
-[vinay@vhscyberpatriot.tech](mailto:vinay@vhscyberpatriot.tech)
+[@cool00geek](https://github.com/cool00geek)  
+[cool00geek@yahoo.com](mailto:cool00geek@yahoo.com)
