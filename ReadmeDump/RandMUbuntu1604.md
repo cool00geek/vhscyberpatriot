@@ -48,4 +48,4 @@ Be sure to use your best security practices to keep Rick safe from interdimensio
 > Do not modify anything with `CyberPatriot` or `scorer` in the name! Thanks
 
 
-> Copyright Vinay Venkat [@billwi](https://github.com/billwi) 2017. All rights reserved
+> Copyright Vinay Venkat [@cool00geek](https://github.com/cool00geek) 2017. All rights reserved
