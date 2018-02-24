@@ -58,4 +58,4 @@ You are to login as `dtargaryen`
 
 > DO NOT DELETE ANYTHING ON THE DESKTOP. DO NOT REMOVE ANY FILE WITH NAMES containing `scorer`, `cyberpatriot`, `scorereport` or the like.
 
-> Copyright @billwi (Vinay) 2017-? and @varystargaryen (Digvijay). Contact if you have any questions.
+> Copyright @cool00geek (Vinay) 2017-? and @varystargaryen (Digvijay). Contact if you have any questions.
